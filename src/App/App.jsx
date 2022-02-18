@@ -25,10 +25,10 @@ function App() {
           //color: "red",
           border: "1rem solid red",
           padding: ".5rem",
-          "border-radius": "1.5rem",
-          "float":"center",
-          margin: "10%",
-          "margin-bottom": "0px"
+          borderRadius: "1.5rem",
+          float:"center",
+          margin: "2%",
+          marginBottom: "0px"
         }, input: {
           margin: "2px",
           padding: "5px"
